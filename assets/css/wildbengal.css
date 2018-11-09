@@ -1,0 +1,14 @@
+main
+{
+	margin-top:100px;
+}
+.about-section
+{
+	margin-top:20px;
+}
+@media only screen and  (max-width: 800px) {
+	.container
+{
+	margin-top:180px;
+}
+}

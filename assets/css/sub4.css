@@ -1,0 +1,14 @@
+#containerA {
+		position:relative;
+		margin-top: 100px;
+	width: 700px;
+	float:left;
+	margin-left:50px;
+	margin-bottom:10px;
+}
+	@media only screen and  (max-width: 800px) {
+#containerA
+{
+	width:auto; 
+}
+	}

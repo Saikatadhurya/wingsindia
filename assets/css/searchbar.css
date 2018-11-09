@@ -1,0 +1,10 @@
+.searchbar{
+
+width:260px; height:60px; position:relative; float:right; margin-left:100px; margin-top:10px;
+} 
+.searchbar input {
+height:45px; 
+}
+#searchresults{
+	list-style-type:none; background: none; position:relative; margin-right:250px; width:350px; 
+}

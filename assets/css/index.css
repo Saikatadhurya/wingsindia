@@ -1,0 +1,17 @@
+#home
+{
+	margin-top:100px;
+}
+.carousel-indicators > li {
+  border-radius: 50%;
+}
+
+
+
+.jumbotron{
+	   background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)), url(../image/back.jpg);
+	   margin-top:50px;
+	}
+	.white{
+	color:white;
+	}
